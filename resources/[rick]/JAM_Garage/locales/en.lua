@@ -1,0 +1,15 @@
+Locales['en'] = {
+    ['not_enough_money'] 		= "You ~r~don't have enough money.~s~",
+    ['not_in_impound']          = "Your vehicle ~r~is not impounded.~s~",
+    ['not_in_garage']           = "Your vehicle ~r~is not in the garage.~s~",
+    ['have_been_stored']        = "Your vehicle ~g~has been stored.~s~",
+    ['do_not_own']              = "~r~You don't own this vehicle.~s~",
+    ['del_car']          = 'deletes Vehicle',
+    ['store_car']       = 'store vehicle',
+    ['open'] = 'Press ~INPUT_PICKUP~ to open the ~b~',
+    ['list_vehicles'] = 'List Vehicles',
+    ['store_vehicle'] = 'Store Vehicle',
+    ['impound'] = 'Impound',
+    ['garage'] = 'Garage',
+    ['out'] = 'Out',
+}

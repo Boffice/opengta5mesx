@@ -1,0 +1,15 @@
+Locales['en'] = {
+    ['not_enough_money'] 		= "Vi ~r~nemate dovoljno novca.~s~",
+    ['not_in_impound']          = "Vase vozilo ~r~nije pokvareno.~s~",
+    ['not_in_garage']           = "Vase vozilo ~r~nije u garazi.~s~",
+    ['have_been_stored']        = "Vase vozilo ~g~je parkirano.~s~",
+    ['do_not_own']              = "~r~Nemate svoje vozilo.~s~",
+    ['del_car']                 = 'deletes Vehicle',
+    ['store_car']       = 'store vehicle',
+    ['open']                    = "Pritisnite ~INPUT_PICKUP~ da otvorite ~b~",
+    ['list_vehicles']           = 'Vasa vozila',
+    ['store_vehicle']           = 'Parkirajte vozilo : $',
+    ['impound'] = 'Impound',
+    ['garage'] = 'Garage',
+    ['out'] = 'Out',
+}

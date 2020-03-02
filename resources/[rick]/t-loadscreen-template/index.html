@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+        <script>
+                window.onload = function() {
+                  var context = new AudioContext();
+                }
+                </script>
+  <meta charset="UTF-8" />
+  <title>Your Server Here</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="keks.css" />
+  <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+  <!-- remember, jQuery is completely optional -->
+  <!-- <script type='text/javascript' src='js/jquery-1.11.1.min.js'></script> -->
+</head>
+
+<body>
+        
+
+  <div id="intro">
+       <div><img src='Logo.png' style='width:300px;heigth:300px'>
+    
+    </div>
+        <hr style='width:300px'>
+       
+           <div> <font face='Montserrat' size='15px'>Your Server Name Goes Here</font></div>
+            <div>
+                <p class='loading'>Loading</p>
+            </div>
+
+            <div>
+             
+                    <audio id='muzica' volume='0.1' autoplay controls>
+
+                            <source src="audio.mp3" type="audio/mpeg">
+                            Audio not support by browser
+                            
+                          </audio>
+                          <script>
+                                var audio = document.getElementById("muzica");
+                                audio.volume = 0.1;
+                              </script>
+
+                          
+            </div>
+
+            <div>                <img src='Discord.png' style='width:70px;height:17px'>
+            </div>
+            <div>
+                
+                <font face='Montserrat' size="3px">Your Discord Link goes here</font>
+            </div>
+      <div>
+          <p>
+              This is just html so can be anything you like.
+          </p>
+      </div>
+
+
+  </div>
+
+
+
+</body>
+</html>

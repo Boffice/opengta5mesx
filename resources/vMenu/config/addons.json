@@ -1,0 +1,14 @@
+{
+  "vehicles": [
+    "rs7",
+    "addonvehiclename2"
+  ],
+  "peds": [
+    "addonpedname1",
+    "addonpedname2"
+  ],
+  "weapons": [
+    "WEAPON_M417",
+    "WEAPON_M417CARBINE"
+  ]
+}

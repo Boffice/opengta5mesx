@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<CMapData>
+  <name p2:nil="true" xmlns:p2="http://www.w3.org/2001/XMLSchema-instance" />
+  <parent p2:nil="true" xmlns:p2="http://www.w3.org/2001/XMLSchema-instance" />
+  <flags value="0" />
+  <contentFlags value="65" />
+  <streamingExtentsMin x="-10631.2012" y="-10238.7822" z="-962.8908" />
+  <streamingExtentsMax x="9368.799" y="9761.218" z="5037.10938" />
+  <entitiesExtentsMin x="-10631.2012" y="-10238.7822" z="-962.8908" />
+  <entitiesExtentsMax x="9368.799" y="9761.218" z="5037.10938" />
+  <entities>
+    <Item type="CEntityDef">
+      <archetypeName>0x9c5394a2</archetypeName>
+      <flags value="1572865" />
+      <guid value="0" />
+      <position x="-634.910767" y="-233.9701" z="36.94271" />
+      <rotation x="0.004835183" y="0.02054889" z="0.440147966" w="0.897677064" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x9c5394a2</archetypeName>
+      <flags value="1572865" />
+      <guid value="0" />
+      <position x="-637.5102" y="-229.778076" z="36.8064766" />
+      <rotation x="0.00483518047" y="0.0205488876" z="0.440321863" w="0.89759177" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x9c5394a2</archetypeName>
+      <flags value="1572865" />
+      <guid value="0" />
+      <position x="-628.971436" y="-242.115051" z="37.2142143" />
+      <rotation x="0.00590398628" y="0.0202676617" z="0.487712622" w="0.872749" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x9c5394a2</archetypeName>
+      <flags value="1572865" />
+      <guid value="0" />
+      <position x="-628.971436" y="-242.115051" z="37.2142143" />
+      <rotation x="0.005903985" y="0.0202676542" z="0.487882555" w="0.872653961" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>0x9c5394a2</archetypeName>
+      <flags value="1572865" />
+      <guid value="0" />
+      <position x="-625.6439" y="-245.931" z="37.36835" />
+      <rotation x="0.00483516371" y="0.0205488726" z="0.442770123" w="0.8963866" />
+      <scaleXY value="1" />
+      <scaleZ value="1" />
+      <parentIndex value="-1" />
+      <lodDist value="500" />
+      <childLodDist value="500" />
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0" />
+      <priorityLevel>PRI_REQUIRED</priorityLevel>
+      <ambientOcclusionMultiplier value="255" />
+      <artificialAmbientOcclusion value="255" />
+      <tintValue value="0" />
+    </Item>
+  </entities>
+  <containerLods />
+  <boxOccluders />
+  <occludeModels />
+  <physicsDictionaries />
+  <instancedData />
+  <timeCycleModifiers />
+  <carGenerators />
+  <LodLightsSoa />
+  <DistantLodLightsSoa />
+  <block>
+    <version value="0" />
+    <flags value="0" />
+    <time>24 April 2019 4:33</time>
+  </block>
+</CMapData>
